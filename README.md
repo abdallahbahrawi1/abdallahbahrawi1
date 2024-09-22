@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdallah Bahrawi</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A passionate fullstack developer from Palestine</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
