@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdallahbahrawi1.github.io/portfolio/](https://abdallahbahrawi1.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://abdallahbahrawi1.github.io/portfolio/blog](https://abdallahbahrawi1.github.io/portfolio/blog)
+- 📝 I regularly write articles on [https://abdallahbahrawi1.github.io/portfolio/blog](https://abdallahbahrawi1.github.io/portfolio/)
 
 - 📫 How to reach me **Abdallah.Bahrawi400@gmail.com**
 
